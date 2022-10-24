@@ -1,0 +1,44 @@
+{
+    "name": "vscode_cobalt_ng",
+    "version": "0.0.1",
+    "displayName": "Cobalt Theme NG",
+    "description": "Next Generation Cobalt theme for Visual Studio Code",
+    "publisher": "KGC Informatics & IT Services",
+    "icon": "images/logo_KGC.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/godelc7/vscode_cobalt_theme"
+    },
+    "galleryBanner": {
+        "color": "#193549",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "VSCode",
+        "Themes",
+        "Colors",
+        "Color theme"
+    ],
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "scripts": {
+        "bundle": "vsce package",
+        "publish": "vsce publish"
+    },
+    "contributes": {
+        "themes": [
+          {
+            "label": "Cobalt Theme NG",
+            "uiTheme": "vs-dark",
+            "path": "./theme/cobalt_ng.json"
+          }
+        ]
+    },
+    "devDependencies": {
+        "vsce": "^1.81.1"
+    }
+}
