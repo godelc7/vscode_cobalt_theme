@@ -5,13 +5,13 @@ This VSCode color theme is inspired by the cobalt theme from
 
 ## Examples
 
-C++
+**C++**
 ![Example C++](images/example_cpp.png)
 
-Python
+**Python**
 ![Example Python](images/example_python.png)
 
-HTML
+**HTML**
 ![Example HTML](images/example_html.png)
 
 ## Usage
