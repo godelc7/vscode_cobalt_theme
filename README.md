@@ -1,7 +1,18 @@
 # Cobalt Theme Next Generation
 
-This VSCode color theme is inspired by the
+This VSCode color theme is inspired by the cobalt theme from
  [Gnome Editor](https://de.wikipedia.org/wiki/Gedit) aka **Gedit**.
+
+## Examples
+
+C++
+![Example C++](images/example_cpp.png)
+
+Python
+![Example Python](images/example_python.png)
+
+HTML
+![Example HTML](images/example_html.png)
 
 ## Usage
 
