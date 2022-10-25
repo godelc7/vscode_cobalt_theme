@@ -146,7 +146,7 @@
     "editorMarkerNavigationWarning.background": "#FFC600",
 
     // ---------------------------- editorOverviewRuler ------------------------
-    "editorOverviewRuler.border": "#0D3A58",
+    "editorOverviewRuler.border": "#001B33",//"#0D3A58",
     "editorOverviewRuler.commonContentForeground": "#FFC60055",
     "editorOverviewRuler.currentContentForeground": "#EE3A4355",
     "editorOverviewRuler.incomingContentForeground": "#3AD90055",
@@ -271,7 +271,7 @@
 
     // --------------------------------- statusBar -----------------------------
     "statusBar.background": "#15232D",
-    "statusBar.border": "#0D3A58",
+    "statusBar.border": "#15232D",//"#0D3A58",
     "statusBar.debuggingBackground": "#15232D",
     "statusBar.debuggingBorder": "#FFC600",
     "statusBar.debuggingForeground": "#FFC600",
@@ -313,6 +313,7 @@
     "terminal.ansiBrightWhite": "#FFFFFF",
     "terminal.background": "#000000",//"#122738",
     "terminal.foreground": "#CCCCCC",//"#FFFFFF",
+    "terminal.border": "#000000",
     "terminalCursor.background": "#FFFFFF",//"#FFC600",
     "terminalCursor.foreground": "#FFFFFF",//"#FFC600",
 
