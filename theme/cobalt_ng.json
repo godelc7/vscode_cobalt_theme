@@ -14,7 +14,7 @@
     "parameter": "#9CDCFE",
     "property": "#FB94FF",
     "selfParameter": {
-      "foreground": "#822287",//"#fb94ff",
+      "foreground": "#822287",
       "fontStyle": "bold"
     },
     "magicFunction": {
