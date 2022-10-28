@@ -122,7 +122,7 @@
     "editorInlayHint.foreground": "#AAAAAA",
 
     // ------------------------------- editorGutter ----------------------------
-    "editorGutter.background": "#000000",//"#12273866",
+    "editorGutter.background": "#000D1A",//"#000000",//"#12273866",
     "editorGutter.addedBackground": "#3C9F4A",
     "editorGutter.deletedBackground": "#A22929",
     "editorGutter.modifiedBackground": "#26506D",
