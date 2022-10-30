@@ -978,5 +978,15 @@
         "foreground": "#569CD6",
       }
     },
+    {
+      "name": "[Jinja] Constants",
+      "scope": [
+        "meta.scope.jinja.variable"
+      ],
+      "settings": {
+        "foreground": "#FF628C",
+        //"fontStyle": "bold"
+      }
+    },
   ]
 }
