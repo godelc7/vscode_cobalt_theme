@@ -176,7 +176,7 @@
     // ------------------------------ extensionButton --------------------------
     "extensionButton.prominentBackground": "#0088FF",
     "extensionButton.prominentForeground": "#FFFFFF",
-    "extensionButton.prominentHoverBackground": "#FF9D00",
+    //"extensionButton.prominentHoverBackground": "#FF9D00",
 
     // ----------------------------------- input -------------------------------
     "input.background": "#193549",
