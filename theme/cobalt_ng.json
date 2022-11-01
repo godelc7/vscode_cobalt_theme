@@ -174,7 +174,7 @@
     "errorForeground": "#A22929",
 
     // ------------------------------ extensionButton --------------------------
-    "extensionButton.prominentBackground": "#0088FF",
+    //"extensionButton.prominentBackground": "#0088FF",
     "extensionButton.prominentForeground": "#FFFFFF",
     //"extensionButton.prominentHoverBackground": "#FF9D00",
 
