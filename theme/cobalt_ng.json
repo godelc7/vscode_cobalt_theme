@@ -716,13 +716,13 @@
         "foreground": "#3AD900",//"#e1efff"
       }
     },
-    {
+    /*{
       "name": "[MARKDOWN] - Heading Punctuation",
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
         "foreground": "#e1efff"
       }
-    },
+    },*/
     {
       "name": "[MARKDOWN] - Heading Name Section",
       "scope": [
@@ -829,10 +829,11 @@
       "name": "[MARKDOWN] - Code Block",
       "scope": [
         "fenced_code.block.language",
-        "markup.inline.raw.markdown"
+        "markup.inline.raw"//"markup.inline.raw.markdown"
       ],
       "settings": {
-        "foreground": "#9effff"
+        "foreground": "#3AD900",//"#9effff"
+        "fontStyle": "italic",
       }
     },
     {
