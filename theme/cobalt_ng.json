@@ -271,7 +271,7 @@
 
     // --------------------------------- statusBar -----------------------------
     "statusBar.background": "#000D1A",//"#15232D",
-    "statusBar.border": "#000D1A",//"#15232D",//"#0D3A58",
+    //"statusBar.border": "#000D1A",//"#15232D",//"#0D3A58",
     "statusBar.debuggingBackground": "#000D1A",//"#15232D",
     "statusBar.debuggingBorder": "#FFC600",
     "statusBar.debuggingForeground": "#FFC600",
@@ -279,6 +279,7 @@
     "statusBar.noFolderBackground": "#000D1A",//"#15232D",
     "statusBar.noFolderBorder": "#000D1A",//"#0D3A58",
     "statusBar.noFolderForeground": "#AAAAAA",
+    "statusBarItem.remoteBackground": "#0D3A58",
     "statusBarItem.activeBackground": "#0088FF",
     "statusBarItem.hoverBackground": "#0D3A58",
     "statusBarItem.prominentBackground": "#15232D",
