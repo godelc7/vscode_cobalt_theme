@@ -284,6 +284,8 @@
     "statusBarItem.hoverBackground": "#0D3A58",
     "statusBarItem.prominentBackground": "#15232D",
     "statusBarItem.prominentHoverBackground": "#0D3A58",
+    "statusBarItem.errorBackground": "#FF0000",
+    "statusBarItem.errorForeground": "#FFFFFF",
 
     // ------------------------------------ tab --------------------------------
     "tab.activeBackground": "#001B33",//"#193549",
