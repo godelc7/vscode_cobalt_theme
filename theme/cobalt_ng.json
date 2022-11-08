@@ -162,7 +162,7 @@
     "editorSuggestWidget.selectedBackground": "#193549",
 
     // ------------------------------- editorWarning ---------------------------
-    "editorWarning.border": "#FFFFFF00",
+    //"editorWarning.border": "#FFFFFF00",
     "editorWarning.foreground": "#FFC600",
     //"editorWhitespace.foreground": "#FFFFFF52",
 
@@ -185,11 +185,11 @@
     "input.placeholderForeground": "#AAAAAA",
     "inputOption.activeBorder": "#8DFFFF",
     "inputValidation.errorBackground": "#193549",
-    "inputValidation.errorBorder": "#FFC600",
+    //"inputValidation.errorBorder": "#FFC600",
     "inputValidation.infoBackground": "#193549",
     "inputValidation.infoBorder": "#0D3A58",
     "inputValidation.warningBackground": "#193549",
-    "inputValidation.warningBorder": "#FFC600",
+    //"inputValidation.warningBorder": "#FFC600",
 
     // ----------------------------------- list --------------------------------
     "list.activeSelectionBackground": "#193549",
@@ -214,14 +214,14 @@
 
     // ----------------------------- notificationCenter ------------------------
     // only apply for VS Code versions 1.21 and higher.
-    "notificationCenter.border": "#FFC600",
+    "notificationCenter.border": "#122738",//"#FFC600",
     "notificationCenterHeader.foreground": "#AAAAAA",
     "notificationCenterHeader.background": "#122738",
-    "notificationToast.border": "#FFC600",
+    "notificationToast.border": "#122738",//"#FFC600",
     "notifications.foreground": "#AAAAAA",
     "notifications.background": "#122738",
-    "notifications.border": "#FFC600",
-    "notificationLink.foreground": "#FFC600",
+    "notifications.border": "#122738",//"#FFC600",
+    //"notificationLink.foreground": "#FFC600",
 
     // ----------------------------------- panel -------------------------------
     "panel.background": "#000000",//"#122738",
@@ -231,7 +231,7 @@
     "panelTitle.inactiveForeground": "#AAAAAA",
 
     // ---------------------------------- peekView -----------------------------
-    "peekView.border": "#FFC600",
+    "peekView.border": "#193549",//"#FFC600",
     "peekViewEditor.background": "#193549",
     "peekViewEditor.matchHighlightBackground": "#19354900",
     "peekViewEditorGutter.background": "#122738",
@@ -243,7 +243,7 @@
     "peekViewResult.selectionForeground": "#FFFFFF",
     "peekViewTitle.background": "#15232D",
     "peekViewTitleDescription.foreground": "#AAAAAA",
-    "peekViewTitleLabel.foreground": "#FFC600",
+    //"peekViewTitleLabel.foreground": "#FFC600",
 
     // ----------------------------------- picker ------------------------------
     "pickerGroup.border": "#0D3A58",
@@ -273,7 +273,7 @@
     "statusBar.background": "#000D1A",//"#15232D",
     //"statusBar.border": "#000D1A",//"#15232D",//"#0D3A58",
     "statusBar.debuggingBackground": "#000D1A",//"#15232D",
-    "statusBar.debuggingBorder": "#FFC600",
+    "statusBar.debuggingBorder": "#000D1A",//"#FFC600",
     "statusBar.debuggingForeground": "#FFC600",
     "statusBar.foreground": "#AAAAAA",
     "statusBar.noFolderBackground": "#000D1A",//"#15232D",
